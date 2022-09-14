@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-14T23:04:30 IST" name="Suite" finished-at="2022-09-14T23:04:44 IST" duration-ms="14444">
+    <groups>
+    </groups>
+    <test started-at="2022-09-14T23:04:30 IST" name="Test" finished-at="2022-09-14T23:04:44 IST" duration-ms="14444">
+      <class name="testCases.priceSort">
+        <test-method signature="priceSorting()[pri:0, instance:testCases.priceSort@2a65fe7c]" started-at="2022-09-14T23:04:30 IST" name="priceSorting" finished-at="2022-09-14T23:04:39 IST" duration-ms="8989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceSorting -->
+      </class> <!-- testCases.priceSort -->
+      <class name="testCases.BaseClass">
+        <test-method is-config="true" signature="browser_intilazation()[pri:0, instance:testCases.BaseClass@7d8995e]" started-at="2022-09-14T23:04:17 IST" name="browser_intilazation" finished-at="2022-09-14T23:04:30 IST" duration-ms="13019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_intilazation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.BaseClass@7d8995e]" started-at="2022-09-14T23:04:44 IST" name="tearDown" finished-at="2022-09-14T23:04:45 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.BaseClass -->
+      <class name="testCases.nameSort">
+        <test-method signature="productNameSorting()[pri:0, instance:testCases.nameSort@4135c3b]" started-at="2022-09-14T23:04:39 IST" name="productNameSorting" finished-at="2022-09-14T23:04:44 IST" duration-ms="5365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productNameSorting -->
+      </class> <!-- testCases.nameSort -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
